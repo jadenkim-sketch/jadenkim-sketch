@@ -1,3 +1,7 @@
-body {
+div {
   background-color: Lawngreen;
+  width: 300px;
+  border: 15px LightGray;
+  padding: 50px;
+  margin: 20px;
 }
